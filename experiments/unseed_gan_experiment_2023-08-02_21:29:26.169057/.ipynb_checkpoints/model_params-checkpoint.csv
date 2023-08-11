@@ -1,0 +1,2 @@
+batch_size,src_seed_size,src_sample_size,src_window_size,src_tile_size,epochs,src_data_dir,gan_data_dir,gan_train_frac,gan_val_frac,gan_size,gan_depth,learning_rate,mean,std,lambda_gan,lambda_mse
+12,100,12,2,64,50,training_data,gan/gan_data_size64_duration6_window2_4hourly/real_data_size64_stride1_depth1,0.8,0.1,64,1,0.0001,300.4478815754368,0.7694883855214554,0.1,0.9
