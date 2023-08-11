@@ -1,0 +1,2 @@
+batch_size,src_seed_size,epochs,src_data_dir,gan_data_dir,gan_train_frac,gan_val_frac,learning_rate
+12,100,50,data_size64_duration6_window2_4hourly,gan/gan_data_size64_duration6_window2_4hourly/real_data_size64_stride1_depth1,0.8,0.1,0.0001
