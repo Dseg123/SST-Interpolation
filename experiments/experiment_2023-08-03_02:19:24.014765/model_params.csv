@@ -1,0 +1,2 @@
+batch_size,batches_per_epoch,src_sample_size,src_window_size,src_tile_size,epochs,src_data_dir,learning_rate,mean,std
+12,3000,12,2,64,100,training_data,0.0001,300.4478815754368,0.7694883855214554
