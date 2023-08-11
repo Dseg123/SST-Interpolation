@@ -1,0 +1,2 @@
+epoch,train_gen_loss,train_disc_loss,train_gen_acc,val_gen_loss,val_disc_loss,val_gen_acc
+1,0.9783851,1.2045294,0.5032084,0.64936644,1.362126,0.5099315
