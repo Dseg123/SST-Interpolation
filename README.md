@@ -1,4 +1,4 @@
-# SST-Interpolation-2
+# SST-Interpolation
 Summer 2023 HMEI Internship with University of Washington Ocean Dynamics Group -- Deep Learning for Sea Surface Temperature Interpolation
 
 This repository contains a rough framework for deep learning models used in SST Interpolation during my internship with the University
